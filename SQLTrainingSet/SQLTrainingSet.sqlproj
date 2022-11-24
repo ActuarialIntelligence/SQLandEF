@@ -66,5 +66,6 @@
   <ItemGroup>
     <None Include="CreateTableScript1.sql" />
     <None Include="insertvalues.sql" />
+    <None Include="SelectWhereClause.sql" />
   </ItemGroup>
 </Project>
