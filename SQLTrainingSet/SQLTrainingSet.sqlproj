@@ -65,5 +65,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="CreateTableScript1.sql" />
+    <None Include="insertvalues.sql" />
   </ItemGroup>
 </Project>
