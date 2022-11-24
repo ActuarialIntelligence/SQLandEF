@@ -67,5 +67,7 @@
     <None Include="CreateTableScript1.sql" />
     <None Include="insertvalues.sql" />
     <None Include="SelectWhereClause.sql" />
+    <None Include="INNERJOIN.sql" />
+    <None Include="OUTERJOIN.sql" />
   </ItemGroup>
 </Project>
