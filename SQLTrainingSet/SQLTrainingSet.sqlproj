@@ -69,6 +69,7 @@
     <None Include="SelectWhereClause.sql" />
     <None Include="INNERJOIN.sql" />
     <None Include="OUTERJOIN.sql" />
-    <None Include="Script1.sql" />
+    <None Include="Cursors1.sql" />
+    <None Include="Cursors2.sql" />
   </ItemGroup>
 </Project>
