@@ -1,1 +1,1 @@
-﻿INSERT INTO TABLENAME VALUES ('VAL3','VAL3','VAL3',123);-- integers and numbers donot contain ' '
+﻿INSERT INTO TABLENAME VALUES ('VAL1','VAL2','VAL3',123);-- integers and numbers donot contain ' '
