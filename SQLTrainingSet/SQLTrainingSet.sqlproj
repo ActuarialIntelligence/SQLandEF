@@ -71,5 +71,6 @@
     <None Include="OUTERJOIN.sql" />
     <None Include="Cursors1.sql" />
     <None Include="Cursors2.sql" />
+    <None Include="StoredPROC1.sql" />
   </ItemGroup>
 </Project>
